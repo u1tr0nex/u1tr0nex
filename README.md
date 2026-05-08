@@ -17,7 +17,7 @@ exploit analysis, IDS rule writing, and Blue Team operations.
 `Log Analysis` `Network Forensics` `SIEM` `Python`
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abhimanyu-rawat-3a4754161/)
 <!--
 **u1tr0nex/u1tr0nex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
