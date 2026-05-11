@@ -15,7 +15,7 @@ exploit analysis, IDS rule writing, and Blue Team operations.
 
 | Project | Description | Tools Used |
 |---------|-------------|------------|
-| [CVE-2022-30190 Follina](link-to-repo) | Full exploit chain lab: MSDT RCE, Suricata IDS detection | Kali Linux, Suricata, Python |
+| [CVE-2022-30190 Follina](https://github.com/u1tr0nex/CVE-2022-30190-Follina-Lab)) | Full exploit chain lab: MSDT RCE, Suricata IDS detection | Kali Linux, Suricata, Python |
 | [CVE-2026-31431 Copy Fail](https://github.com/u1tr0nex/CVE-2026-31431-CopyFail-Lab) | Linux Kernel LPE via `algif_aead` page-cache overwrite — root escalation confirmed on `6.18.12+kali-amd64` | Kali Linux, Python, auditd |
 
 ---
