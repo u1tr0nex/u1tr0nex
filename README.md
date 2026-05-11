@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhimanyu Rawat
 
 🔐 **Technical Research & Cyber Security Operations Intern**
-🎓 GraySentinel — Training Program
+🎓 GraySentinel
 
 ---
 
